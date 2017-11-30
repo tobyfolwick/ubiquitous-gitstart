@@ -1,2 +1,2 @@
 # ubiquitous-gitstart
-github quickstart roject
+github quickstart project
